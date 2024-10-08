@@ -1,0 +1,17 @@
+model_list:
+  - model_name: llama3.1
+    litellm_params:
+        model: ollama/llama3.1
+        api_base: http://localhost:11435
+  - model_name: llama3.1
+    litellm_params:
+        model: ollama/llama3.1
+        api_base: http://localhost:11436
+  - model_name: llama3.1
+    litellm_params:
+        model: ollama/llama3.1
+        api_base: http://localhost:11437
+  - model_name: llama3.1
+    litellm_params:
+        model: ollama/llama3.1
+        api_base: http://localhost:11438
